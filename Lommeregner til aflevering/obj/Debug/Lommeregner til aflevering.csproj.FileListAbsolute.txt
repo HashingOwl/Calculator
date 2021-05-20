@@ -1,9 +1,0 @@
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\bin\Debug\Lommeregner til aflevering.exe.config
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\bin\Debug\Lommeregner til aflevering.exe
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\bin\Debug\Lommeregner til aflevering.pdb
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\obj\Debug\Lommeregner_til_aflevering.Properties.Resources.resources
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\obj\Debug\Lommeregner til aflevering.csproj.GenerateResource.cache
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\obj\Debug\Lommeregner til aflevering.csproj.CoreCompileInputs.cache
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\obj\Debug\Lommeregner til aflevering.exe
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\obj\Debug\Lommeregner til aflevering.pdb
-C:\Users\rotho\OneDrive - NEXT Uddannelse København\Programmering\Eksamensprojekt\Solution til aflevering\Lommeregner til aflevering\obj\Debug\Lommeregner til aflevering.csprojAssemblyReference.cache
